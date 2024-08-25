@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Ahmed-Raza4
+## 👋 Hi, I’m Ahmed Raza
 
 - 👀 I’m interested in web development, AI, and Technology.
 - 🌱 I’m currently learning CSS, advanced JavaScript, Gen. AI and Chatbot.
