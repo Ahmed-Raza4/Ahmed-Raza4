@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Ahmed-Raza4
 
-- 👀 I’m interested in web development, AI, and education technology.
+- 👀 I’m interested in web development, AI, and Technology.
 - 🌱 I’m currently learning CSS, advanced JavaScript, Gen. AI and Chatbot.
 - 💞️ I’m looking to collaborate on open-source projects related to AI chatbots and educational tools.
 - 📫 How to reach me: hafizahmedraza12345@gmail.com | [LinkedIn](https://www.linkedin.com/in/ahmed-raza4)
