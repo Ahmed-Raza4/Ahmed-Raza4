@@ -19,16 +19,16 @@
 
 ## ❤ Views and Followers
     
-<a href="https://github.com/codewithrasheed/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codewithrasheed">
+<a href="https://github.com/ahmed-raza4/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahmed-raza4">
 </a>
-<a href="https://github.com/codewithrasheed?tab=followers"><img src="https://img.shields.io/github/followers/codewithrasheed?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/ahmed-raza4?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza4?label=Followers&style=social" alt="GitHub Badge"></a> 
     
     
 ### Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithrasheed&theme=dark&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrasheed&layout=compact&theme=dark&langs_count=50" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-raza4&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza4&layout=compact&theme=dark&langs_count=50" />
 
 <!---
 Ahmed-Raza4/Ahmed-Raza4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
